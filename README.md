@@ -14,6 +14,6 @@ Currently on a mission to revolutionize how the blue-collar industries operate a
     Since everyone is posting them everywhere 😆
   </p>
   <p align = "center">
-    <img src="https://streak-stats.demolab.com/?user=PedroRestrepo&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=PedroRestrepo">
   </p>
 </details>
