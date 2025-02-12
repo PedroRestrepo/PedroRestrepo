@@ -7,13 +7,3 @@ Currently on a mission to revolutionize how the blue-collar industries operate a
 - LinkedIn: https://www.linkedin.com/in/pedrorestrepo/
 - E-mail: pedro.j.restrepo@gmail.com
  
-<details>
-  <summary>📊 (Not) Useful Stats</summary>
-  <br />
-  <p align="center">
-    Since everyone is posting them everywhere 😆
-  </p>
-  <p align = "center">
-    <img src="https://streak-stats.demolab.com/?user=PedroRestrepo">
-  </p>
-</details>
